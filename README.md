@@ -1,2 +1,3 @@
 # hello-world
-First one
+
+So I am just exploring what github can do! 
